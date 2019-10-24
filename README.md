@@ -4,7 +4,7 @@
 nano odoo_install.sh
 
 # 2.- Agregamos el siguiente contenido:
-"""
+```
 #!/bin/bash
 #Creamos el usuario y grupo de sistema 'odoo':
 sudo adduser --system --quiet --shell=/bin/bash --home=/opt/odoo --gecos 'odoo' --group odoo
@@ -41,7 +41,7 @@ sudo cp /opt/odoo/odoo/debian/init /etc/init.d/odoo && sudo chmod +x /etc/init.d
 sudo ln -s /opt/odoo/odoo/odoo-bin /usr/bin/odoo
 sudo update-rc.d -f odoo start 20 2 3 4 5 .
 sudo service odoo start
-"""
+```
 # 3.- Damos permiso al archivo:
 sudo chmod u+x odoo_install.sh
 
