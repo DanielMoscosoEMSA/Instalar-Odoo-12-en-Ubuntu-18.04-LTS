@@ -52,4 +52,4 @@ sudo service odoo start
 http://ip_o_dominiolocalhost:8069 -> Ej: http://localhost:8069
 
 # NOTE:
-Or you can simply download ```odoo_install.sh``` from the files, run a command line in the folder you donwloaded the file, and jump to step 3
+Or you can simply download ```odoo_install.sh``` from the files, run a command line in the folder you donwloaded the file, and jump to step 3.
