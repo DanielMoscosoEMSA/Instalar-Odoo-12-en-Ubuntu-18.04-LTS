@@ -49,4 +49,8 @@ sudo service odoo start
 ```sudo sh odoo_install.sh```
 
 # 5.- Finalmente abrimos un navegador web y colocamos: 
-http://ip_o_dominiolocalhost:8069 -> Ej: localhost:8069
+http://ip_o_dominiolocalhost:8069 -> Ej: http://localhost:8069
+
+
+# NOTE:
+Or you can simply download ```odoo_install.sh``` from the files, and jump to step 3
