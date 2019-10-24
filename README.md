@@ -1,4 +1,4 @@
-# Instalar-Odoo-12-en-Ubuntu-18.04-LTS
+# Instalar Odoo 12 en Ubuntu 18.04-LTS
 
 # 1.- Creamos el archivo odoo_install.sh:
 ```nano odoo_install.sh```
