@@ -1,5 +1,3 @@
-<img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/AnacondaPython-_Install_mostov_v2_social.png?1527698443" alt="Image"/><br/>
-
 # Instalar Odoo 12 en Ubuntu 18.04-LTS
 
 # 1.- Creamos el archivo odoo_install.sh:
